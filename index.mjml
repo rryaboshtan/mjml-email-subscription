@@ -1,0 +1,124 @@
+<mjml>
+  <!-- <mj-body width="600px" background-color="white"> -->
+  <mj-head>
+    <mj-font name="Outfit" href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600&display=swap" />
+  </mj-head>
+
+  <!-- <mj-style> @media (max-width: 480px) {{.pl {padding: 0 }}} </mj-style> -->
+
+  <mj-body background-color="white">
+    <mj-wrapper full-width="full-width">
+      <mj-section full-width="full-width" padding="0 35px">
+        <mj-column vertical-align="middle" padding="0">
+          <mj-image src="./images/logo.png" alt="logo-icon" width="184px" height="31px" padding="0"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section full-width="full-width" padding="25px 35px 11px">
+        <mj-column>
+          <mj-text font-family="Outfit" font-weight="600" font-size="17px" color="#168A7C" padding="0"
+            >Welcome to Luxe Quality subscribers!</mj-text
+          >
+        </mj-column>
+      </mj-section>
+
+      <mj-section full-width="full-width" padding="0 35px 25px">
+        <mj-column>
+          <mj-text font-family="Outfit" font-size="17px" color="#2F2D47" padding="0"
+            >Your curiosity and desire to grow have made our team stronger, and we are happy to share valuable information and
+            knowledge with you.</mj-text
+          >
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 35px 20px" full-width="full-width">
+        <mj-column width="10%" padding="0" vertical-align="middle">
+          <mj-image src="./images/arrow.png" alt="arrow icon" width="72px" height="60px" padding="0"></mj-image>
+        </mj-column>
+        <mj-column width="470px" vertical-align="middle">
+          <mj-text font-family="Outfit" font-size="17px" color="#2F2D47" padding="0 0 0 18px"
+            ><b>Expert Videos:</b><br /><span font-weight="400"
+              >Gain new insights and the importance of ongoing learning through diverse topic videos from our experts.</span
+            ></mj-text
+          >
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 35px 20px" full-width="full-width">
+        <mj-column width="10%" padding="0" vertical-align="middle">
+          <mj-image src="./images/list.png" alt="list icon" width="70px" height="60px" padding="0"></mj-image>
+        </mj-column>
+        <mj-column width="470px" vertical-align="middle">
+          <mj-text font-family="Outfit" font-size="17px" color="#2F2D47" padding="0 0 0 18px"
+            ><b>Latest Articles:</b><br /><span font-weight="400"
+              >Discover cutting-edge research and best practices in software testing, shared by our experts.</span
+            ></mj-text
+          >
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 35px 36px" full-width="full-width" border-bottom="1px solid #D9D9D9">
+        <mj-column width="10%" padding="0" vertical-align="middle">
+          <mj-image src="./images/dir.png" alt="dir icon" width="57px" height="52px" padding="0"></mj-image>
+        </mj-column>
+        <mj-column width="470px" vertical-align="middle">
+          <mj-text font-family="Outfit" font-size="17px" color="#2F2D47" padding="0 0 0 18px"
+            ><b>Case Studies:</b><br /><span font-weight="400"
+              >Explore detailed accounts of our work with different companies, including challenges faced and successful
+              solutions.</span
+            ></mj-text
+          >
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="25px 35px 18px" full-width="full-width">
+        <mj-column>
+          <mj-text font-weight="600" font-family="Outfit" font-size="17px" color="#2F2D47" padding="0"
+            >If you have any questions or suggestions, our team will be happy to respond</mj-text
+          >
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 35px 24px" full-width="full-width">
+        <mj-column>
+          <mj-button
+            align="center"
+            background-color="#1BAC9A"
+            color="#fff"
+            border-radius="23px"
+            font-size="15.36px"
+            font-family="Outfit"
+            font-weight="500"
+            padding="0"
+            href="https://luxequality.com/contacts/"
+            >GET IN TOUCH</mj-button
+          >
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 35px 27px" full-width="full-width">
+        <mj-column>
+          <mj-text font-family="Outfit" font-size="17px" color="#2F2D47" padding="0"
+            >Thank you for your decision to be with us. We look forward to fruitful cooperation!</mj-text
+          >
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 35px 35px" full-width="full-width">
+        <mj-column>
+          <mj-text font-family="Outfit" font-size="17px" color="#2F2D47" padding="0"
+            >With best regards,<br />The Luxe Quality team</mj-text
+          >
+        </mj-column>
+      </mj-section>
+
+      <mj-section full-width="full-width" padding="37px 0" background-color="#2F2D47">
+        <mj-column width="600px">
+          <mj-image src="./images/footer.png" alt="social links" width="202px" height="94px" padding="0"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section full-width="full-width" padding="25px 35px 130px"> </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
